@@ -5,4 +5,4 @@
 - 🌱 Şu an öğreniyorum: **Python**, **Algoritma ve Veri Yapıları**, **Yapay Zeka Temelleri**.
 - 🤝 İş birliği yapmak istediğim konular: **Yapay Zeka Projeleri**, **Basit Yazılım Geliştirme**.
 - 📫 Bana ulaş: srhtyazcc@gmail.com
-- ⚡ İlginç bir şey: Teknolojiye olan ilgim küçük yaşlardan beri var ve sürekli kendimi geliştirmeye çalışıyorum.
+
